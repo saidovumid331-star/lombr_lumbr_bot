@@ -7,7 +7,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiohttp import web
 
 # BOT TOKENINI SHU YERGA QO'YING
-BOT_TOKEN = "BU_YERGA_O_Z_TOKENINGIZNI_QO_YING" 
+BOT_TOKEN = "8869987652:AAH1F9g00wpX2IgoGTXww9eRLLZ9ng70gfw" 
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
