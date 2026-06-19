@@ -8,6 +8,7 @@ from aiohttp import web
 
 # BOT TOKENINI SHU YERGA QO'YING
 BOT_TOKEN = "8869987652:AAH1F9g00wpX2IgoGTXww9eRLLZ9ng70gfw" 
+web.Application()
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
